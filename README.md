@@ -8,6 +8,7 @@ This project analyzes the historical growth and structural transformation of Vie
 ## Tech Stack & Tools
 - **Data Extraction & Processing:** Excel 
 - **Visualization & Dashboard:** Microsoft Power BI (`Vietnam Trade Value.pbix`)
+- - **Raw Dataset (1988–2021):** [Download Full Raw Data from Google Drive](https://drive.google.com/file/d/18hviLkM3K7ikBiUNGAVHTFT2zI4vGmmT/view?usp=sharing)
 - **Analytical Competencies:** Macroeconomic trend analysis, market share decomposition, trade risk assessment
 
 ---
@@ -47,5 +48,6 @@ This project analyzes the historical growth and structural transformation of Vie
 ---
 
 ## 📁 Repository Structure
-- `Vietnam Trade Value.pbix`: Interactive Power BI report with underlying models and market breakdowns.
-- `README.md`: Project documentation and executive findings.
+- `Vietnam Trade Value.pbix`: Interactive Power BI dashboard report with underlying data models and visual breakdowns.
+- `vietnam trade value.csv`: Cleaned and aggregated export dataset used directly in the dashboard.
+- `README.md`: Project overview, core analytical insights, and strategic trade implications.
